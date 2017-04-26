@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "name": "PubNub enabled Botkit",
+  "description": "Exmaple how to connect Botkit with PubNub",
+  "main": "bot.js",
+  "dependencies": {
+    "botkit": "^0.5.2",
+    "debug": "^2.6.4",
+    "pubnub": "^4.8.0"
+  }
+}
